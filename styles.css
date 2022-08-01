@@ -1,0 +1,141 @@
+html, body {
+  margin: 20px;
+  padding: 20px;
+  border: 20px;
+  left: 20px;
+  top:  20px;
+}
+
+
+
+ heading {
+  font:1em Arial, Helvetica, sans-serif;
+  color: blue;
+  font-family: verdana;
+  font-size: 20%;
+}
+h1  {
+  font:1em Arial, Helvetica, sans-serif;
+  color: blue;
+  font-family: verdana;
+  font-size: 100%;
+}
+
+h2  {
+  font:2em Arial, Helvetica, sans-serif;
+  color: blue;
+  font-family: verdana;
+  font-size: 200%;
+}
+
+h3  {
+  font:1.5em Arial, Helvetica, sans-serif;
+  color: blue;
+  font-family: verdana;
+  font-size: 200%;
+}
+
+p {
+  font:1.25em Arial, Helvetica, sans-serif;
+  color: blue;
+  font-family: verdana;
+  font-size: 100%;
+  padding:50px
+}
+
+body {
+  background-color: tan;
+}
+
+
+p {
+  color: black;
+}
+
+p {
+  border: 1px black;
+}
+
+p {
+  border: 1px black;
+  font-size:20px;
+}
+
+
+
+title {
+  text-transform: uppercase;
+}
+
+title{
+  font-size: 200;
+}
+
+
+heading {
+ font:1.25em Arial, Helvetica, sans-serif;
+  color: black;
+  font-family: tahoma;
+  font-size: 270%;
+  padding:100px
+  
+}
+
+li {
+ font:2.25em Arial, Helvetica, sans-serif;
+  color: black;
+  font-family: tahoma;
+  font-size: 90%;
+  padding:10px
+   
+}
+img {
+max-width: 40%;
+height: 20%;
+}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 24px 36px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {font}
+
+li  {
+  font-size: 110%;
+  font-family:tahoma;
+}
+
+p {
+  border-style: double;
+  
+}
+
+div {
+  font-size:30px;
+}
+
+
